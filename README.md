@@ -35,10 +35,10 @@ Enter Base Currency ['USD', 'CAD', 'EUR', 'GBP', 'AUD', 'CNY'] (q to quit): gb
 
 Exchange Rates for 1 GBP:
 ``` USD : 1.3720053960
-```CAD : 1.8769310161
-```EUR : 1.1696896705
-```AUD : 2.0994154649
-``` CNY : 9.8406693244
+CAD : 1.8769310161
+EUR : 1.1696896705
+AUD : 2.0994154649
+CNY : 9.8406693244
 
 Enter Base Currency ['USD', 'CAD', 'EUR', 'GBP', 'AUD', 'CNY'] (q to quit): q
 
